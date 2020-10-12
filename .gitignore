@@ -146,3 +146,6 @@ outputs/
 
 # mypy cache
 .mypy_cache
+
+# Mephisto webapp generation files
+_generated
